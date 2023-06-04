@@ -10976,3 +10976,9 @@ section.resume-section .resume-section-content {
 .color-footer2{
   background-color:  #21081a;
 }
+.img-size{
+  max-height: max-content;
+  max-width: 200px;
+  margin: 40px 100px;
+
+}
