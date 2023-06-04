@@ -10970,3 +10970,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.color-footer{
+  background-color:  rgba(0, 0, 0, 0.2);
+}
+.color-footer2{
+  background-color:  #21081a;
+}
